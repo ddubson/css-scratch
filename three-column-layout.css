@@ -1,0 +1,21 @@
+.fixed-head {
+    border: 1px solid lightgoldenrodyellow;
+    min-height: 1em;
+    padding: 1em;
+}
+
+.body-container {
+    padding: 1em;
+    border: 1px solid lightgreen;
+}
+
+.container {
+    border: 1px solid lightcoral;
+}
+
+.column {
+    display: inline-block;
+    border: 2px solid lightblue;
+    width: 20em;
+    vertical-align: top;
+}
